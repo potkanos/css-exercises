@@ -14,7 +14,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin-left: 40px;
+  margin-left: 0;
+  margin-right: -40px;
 }
 
 ul {
